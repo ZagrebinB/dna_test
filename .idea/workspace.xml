@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36d1c01c-f792-44a2-9160-8cfc2b62e16b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bGJHSN9gLOKxUjmTGvfsjiz66P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.CoffeeScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="covid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="covid" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/covid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.covid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36d1c01c-f792-44a2-9160-8cfc2b62e16b" name="Default Changelist" comment="" />
+      <created>1588252408692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588252408692</updated>
+      <workItem from="1588252411476" duration="3876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="997" y="322" width="546" height="383" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588253181487">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="997" y="322" width="546" height="383" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040/2560.0.1920.1080@0.0.2560.1040" timestamp="1588253181487" />
+    <state width="2518" height="288" key="GridCell.Tab.0.bottom" timestamp="1588256574851">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2518" height="288" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1080@0.0.2560.1040" timestamp="1588256574851" />
+    <state width="1878" height="288" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1080@2560.0.1920.1080" timestamp="1588256279247" />
+    <state width="2518" height="288" key="GridCell.Tab.0.center" timestamp="1588256574851">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2518" height="288" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1080@0.0.2560.1040" timestamp="1588256574851" />
+    <state width="1878" height="288" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1080@2560.0.1920.1080" timestamp="1588256279247" />
+    <state width="2518" height="288" key="GridCell.Tab.0.left" timestamp="1588256574851">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2518" height="288" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1080@0.0.2560.1040" timestamp="1588256574851" />
+    <state width="1878" height="288" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1080@2560.0.1920.1080" timestamp="1588256279247" />
+    <state width="2518" height="288" key="GridCell.Tab.0.right" timestamp="1588256574851">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="2518" height="288" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1080@0.0.2560.1040" timestamp="1588256574851" />
+    <state width="1878" height="288" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1080@2560.0.1920.1080" timestamp="1588256279247" />
+    <state width="1280" height="520" key="XDebugger.FullValuePopup" timestamp="1588253235462">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1280" height="520" key="XDebugger.FullValuePopup/0.0.2560.1040/2560.0.1920.1080@0.0.2560.1040" timestamp="1588253235462" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/covid$covid.coverage" NAME="covid Coverage Results" MODIFIED="1588256574835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
